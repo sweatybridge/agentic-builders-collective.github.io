@@ -97,3 +97,17 @@
     - prompting
     - agents
     - llms
+- id: abusing-postgres
+  title: "$ abusing postgres --with-llms"
+  speakers:
+    - personId: han-qiao
+  eventId: 2026-05-28-abc-at-amcham
+  url: ""
+  slidesUrl: https://sweatybridge.github.io/abc-slides
+  videoUrl: ""
+  summary: A session exploring using agents for PostgreSQL tasks like schema design, query optimization, and idempotent migrations.
+  tags:
+    - agentic
+    - postgres
+    - database
+    - llms
